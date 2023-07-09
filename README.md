@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Zac</h1>
-<h3 align="center">A 12 year pharmacy technician turned data scientist.</h3>
+<h3 align="center">12 year pharmacy technician turned data scientist.</h3>
 <h3 align="center">Currently learning data science at Codeup - San Antonio.
 
 - 🌱 I’m currently learning **SQL.**
