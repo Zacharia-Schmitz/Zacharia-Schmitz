@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Zac</h1>
 
-<i>Currently self teaching Microsoft Azure & MongoDB.</i>
+*Currently self teaching Microsoft Azure & MongoDB.*
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
