@@ -27,9 +27,6 @@ I'm currently further tuning my skills in Data Science at <a href="https://codeu
 <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" rel="nofollow">
     <img src="https://img.shields.io/badge/-SharePoint-0D1117?style=flat&logo=sharepoint" alt="SharePoint" style="max-width: 100%;">
 </a>
-
-
-
 <a href="https://anaconda.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/d7e2193361873c3036fe4852ee01a67d977f9cc30a3d66b37ea9e5b7529980a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3044313131373f7374796c653d666c6174266c6f676f3d616e61636f6e6461" alt="Anaconda" data-canonical-src="https://img.shields.io/badge/-Anaconda-0D1117?style=flat&amp;logo=anaconda" style="max-width: 100%;"></a>
 <a href="https://jupyter.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/077479fd7b29ef8d6742b5b61e9b5dd452d4bfda4dd4437802a8d14c5c2cf221/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3044313131373f7374796c653d666c6174266c6f676f3d6a757079746572" alt="Jupyter" data-canonical-src="https://img.shields.io/badge/-Jupyter-0D1117?style=flat&amp;logo=jupyter" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/1aac8f33f32ff3339478fb73ee497d0694e6a1c5efdf647cb2ba027ced58837e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3044313131373f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a>
