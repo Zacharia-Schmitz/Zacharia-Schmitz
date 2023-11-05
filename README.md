@@ -36,10 +36,10 @@ I'm currently further tuning my skills in Data Science at <a href="https://codeu
 <a href="https://www.json.org/json-en.html" rel="nofollow"><img src="https://camo.githubusercontent.com/ab68307c1d161d545e41e3b6ed56604a7a34416992ead906574a09940a37698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a534f4e2d3044313131373f7374796c653d666c6174266c6f676f3d6a736f6e" alt="JSON" data-canonical-src="https://img.shields.io/badge/-JSON-0D1117?style=flat&amp;logo=json" style="max-width: 100%;"></a>
 <a href="https://www.google.com/sheets/about/" rel="nofollow"><img src="https://camo.githubusercontent.com/d46386de4da469df2f2fbd1cfee813efa13580046cc0230ab638dfd7c355daaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c652532305368656574732d3044313131373f7374796c653d666c6174266c6f676f3d676f6f676c65253230736865657473" alt="Google Sheets" data-canonical-src="https://img.shields.io/badge/-Google%20Sheets-0D1117?style=flat&amp;logo=google%20sheets" style="max-width: 100%;"></a>
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" rel="nofollow">
-    <img src="https://img.shields.io/badge/-BeautifulSoup-0D1117?style=flat&logo=beautifulsoup" alt="BeautifulSoup" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-BeautifulSoup-0D1117?style=flat&logo=beautifulsoup" alt="BeautifulSoup" style="max-width: 100%;">
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop" alt="Photoshop" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop" alt="Photoshop" style="max-width: 100%;">
 </a>
 
 
