@@ -6,7 +6,7 @@
 <div style="text-align:center"><i>I'm interested harnessing the power of data to uncover patterns, make informed<br> 
                                   decisions, and drive innovation that can improve lives and transform industries.</i></div><br>
 
-I just finished an advanced 6 month Data Science program at ![Codeup Logo](https://assets-global.website-files.com/632c75d94fe9214a38d3ba10/632c7951c0bc24b0a1b915d3_CodeupFullColorLogo.png)[(Curriculum)](https://www.codeup.edu/program/data-science#curriculum)
+I just finished an advanced 6 month Data Science program at <a href="https://www.codeup.edu/program/data-science#curriculum"><img src="https://assets-global.website-files.com/632c75d94fe9214a38d3ba10/632c7951c0bc24b0a1b915d3_CodeupFullColorLogo.png" alt="Codeup Logo" style="height: 20px;"></a>[(Curriculum)](https://www.codeup.edu/program/data-science#curriculum)
 
 I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
 
