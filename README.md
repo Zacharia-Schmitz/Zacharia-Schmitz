@@ -8,7 +8,7 @@
 
 I just finished an advanced 6 month Data Science program at [Codeup](https://www.codeup.edu/program/data-science#curriculum).
 
-I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=for-the-badge&logo=snowflake&logoColor=white).
+I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
 
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://www.python.org)
 
