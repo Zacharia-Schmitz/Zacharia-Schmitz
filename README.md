@@ -10,6 +10,8 @@ I just finished an advanced 6 month Data Science program at [Codeup](https://www
 
 I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=for-the-badge&logo=snowflake&logoColor=white).
 
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://www.python.org)
+
 ### Experienced Using:
 
 <p dir="auto"><a href="https://www.python.org" rel="nofollow"><img src="https://camo.githubusercontent.com/4862b77098969bf0dac3dec7baf41a3a92ed6b4df92c786500d73633b837f027/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3044313131373f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-0D1117?style=flat&amp;logo=python" style="max-width: 100%;"></a>
