@@ -47,6 +47,15 @@ I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img
 
 #### Lightly Used:
 
+[![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)]
+[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)]
+[![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=flat&logo=databricks)]
+[![Spark](https://img.shields.io/badge/-Spark-0D1117?style=flat&logo=apachespark)]
+[![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=flat&logo=selenium)]
+[![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=flat&logo=google)]
+[![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite)]
+[![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat&logo=snowflake&logoColor=white)]
+
 <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://camo.githubusercontent.com/0c8265f01ab298057a6ac2146184f2202c1d2b06058a184407c6d53092b1005f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-0D1117?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://camo.githubusercontent.com/af280aec43bf1e4a37a6c2c945baf40f6d2a60838493085604d666f96b845f29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-0D1117?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;"></a>
 <a href="https://docs.databricks.com/getting-started/community-edition.html" rel="nofollow"><img src="https://camo.githubusercontent.com/e248ed733cb5337d90e708a1b0ad60fa555e45f3e3726d140cd305717854608b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44617461627269636b732d3044313131373f7374796c653d666c6174266c6f676f3d64617461627269636b73" alt="Databricks" data-canonical-src="https://img.shields.io/badge/-Databricks-0D1117?style=flat&amp;logo=databricks" style="max-width: 100%;"></a>
