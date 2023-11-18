@@ -1,12 +1,14 @@
 
 ### Hey, I'm Zac.
 
-<div style="text-align:left"><a href="mailto:schmitz.zacharia@gmail.com"><img src="https://camo.githubusercontent.com/680f421e436a85bbcae920317ace922d5d478604a10fe9f18659735ba2dd32b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/zschmitz/" rel="nofollow"><img src="https://camo.githubusercontent.com/4dcfd3253ed2863514c15f5918073361e543522885d0e87dbb861e2019a4846c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://github.com/Zacharia-Schmitz"><img src="https://camo.githubusercontent.com/10b4a5621f77a53225021e15313b45a63cd12b5a5ce82d7e46cf5a86bad67cc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333138313731372e7376673f7374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></div><br>
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:schmitz.zacharia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zschmitz/)
+[![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/Zacharia-Schmitz)
 
 <div style="text-align:center"><i>I'm interested harnessing the power of data to uncover patterns, make informed<br> 
                                   decisions, and drive innovation that can improve lives and transform industries.</i></div><br>
 
-I just finished an advanced 6 month Data Science program at <a href="https://www.codeup.edu/program/data-science#curriculum"><img src="https://assets-global.website-files.com/632c75d94fe9214a38d3ba10/632c7951c0bc24b0a1b915d3_CodeupFullColorLogo.png" alt="Codeup Logo" style="height: 20px;"></a>[(Curriculum)](https://www.codeup.edu/program/data-science#curriculum)
+I just finished an advanced 6 month Data Science program at  <a href="https://www.codeup.edu/program/data-science#curriculum"><img src="https://assets-global.website-files.com/632c75d94fe9214a38d3ba10/632c7951c0bc24b0a1b915d3_CodeupFullColorLogo.png" alt="Codeup Logo" style="height: 20px;"></a>[(Curriculum)](https://www.codeup.edu/program/data-science#curriculum)
 
 I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
 
