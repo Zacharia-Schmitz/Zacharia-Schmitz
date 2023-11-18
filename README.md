@@ -6,8 +6,9 @@
 <div style="text-align:center"><i>I'm interested harnessing the power of data to uncover patterns, make informed<br> 
                                   decisions, and drive innovation that can improve lives and transform industries.</i></div><br>
 
-I'm currently further tuning my skills in Data Science at <a href="https://codeup.edu/program/data-science/" rel="nofollow">Codeup</a>
+I just finished an advanced 6 month Data Science program at [Codeup](https://www.codeup.edu/program/data-science#curriculum).
 
+I'm currently using DataCamp to further my knowledge of Snowflake.
 
 ### Experienced Using:
 
