@@ -50,6 +50,5 @@ I'm currently using DataCamp to further my knowledge of ![Snowflake](https://img
 ![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=flat&logo=google)
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=flat&logo=power-bi)
 
 </article>
