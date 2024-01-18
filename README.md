@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/Zacharia-Schmitz)
 
 <div style="text-align:center"><i>I'm interested harnessing the power of data to uncover patterns, make informed<br> 
-                                  decisions, and drive innovation that can improve lives and transform industries.</i></div><br>
+                                  decisions, and drive innovation that can improve lives and transform industries.</i></div>
 
 ### Experienced Using:
 
